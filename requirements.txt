@@ -3,4 +3,4 @@ xrayutilities
 numpy
 xarray
 pandas
-PIL==8.0.1
+
