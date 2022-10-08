@@ -78,8 +78,8 @@ tt= np.round(tt, decimals= 3)
 chi =np.round(chi, decimals= 3)
 
 u=np.zeros_like(x)
-Fn="./Streamlit/Udemy/lecture1/pilatus1.tif"
-PATH="./Streamlit/Udemy/lecture1"
+Fn="pilatus1.tif"
+
 
 t = xu.io.imagereader.get_tiff (Fn)
 #[x1:x2,y1:y2] x:row y:column
