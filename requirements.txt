@@ -1,0 +1,6 @@
+streamlit
+xrayutilities
+numpy
+xarray
+pandas
+PIL
